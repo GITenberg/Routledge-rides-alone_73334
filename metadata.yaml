@@ -10,6 +10,9 @@ contributor:
     deathdate: 1961
     gutenberg_agent_id: '37259'
     url: http://www.gutenberg.org/2009/agents/37259
+covers:
+- cover_type: archival
+  image_path: 73334-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Comfort, Will Levington
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2012
     wikipedia: https://en.wikipedia.org/wiki/Will_Levington_Comfort
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73334#Routledge-rides-alone
 gutenberg_issued: '2024-04-05'
 gutenberg_type: Text
 identifiers:
